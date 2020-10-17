@@ -1,0 +1,38 @@
+{
+  "name": "Loker Pabrik",
+  "short_name": "operatorproduksi.net",
+  "start_url": "URL HOMEPAGE",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Info lowongan Kerja 2020",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-qUfhijqMHcQ/X4sfvl4ogyI/AAAAAAAABOY/xYs1twnj8eYvIMEVQOav2mgtv_4zRUb6QCLcBGAsYHQ/s0/favicon-operator-produksi48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-9x_78UAJZS0/X4sfv5-RBFI/AAAAAAAABOg/23nVkC1KMFgd1wwkID4YQ923K9WXJLB6gCLcBGAsYHQ/s0/favicon-operator-produksi72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-gtCztHRDWXo/X4sfwUi07iI/AAAAAAAABOk/rn2rc3wlPzITzFPl4NitLVM9-b9SKFyHACLcBGAsYHQ/s0/favicon-operator-produksi96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-lQ_vNBP_dYo/XvDCUXP5R5I/AAAAAAAAAfg/nsk5o0zybp45jdoS9BQBiAVlBuAbXR7pACLcBGAsYHQ/s1600/favicon-operator-produksi144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-MJX1tEyJ_Gg/XvDCCUc_vgI/AAAAAAAAAfY/WqxuwHQg1f8HC9L5jDBvmRCFLHn5qYH8wCLcBGAsYHQ/s1600/favicon-operator-produksi180.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-K7MNN1U2dWI/XvDBv1Q8NFI/AAAAAAAAAfQ/56RQpYgSXoovlj7zHbr4Jc5Mdlk3Q0T-QCLcBGAsYHQ/s1600/favicon-operator-produksi192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-03JaIxkK8NI/X4sfv2P1hRI/AAAAAAAABOc/InTmv96INi4CAezlao48UysUq6JrPTTOwCLcBGAsYHQ/s0/favicon-operator-produksi512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
